@@ -1,0 +1,12 @@
+2019-01-12 23:27:21.9344 Info Message Template Auto Format enabled
+2019-01-12 23:27:21.9502 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-12 23:27:22.0257 Info Adding target File Target[allfile]
+2019-01-12 23:27:22.0355 Info Adding target File Target[ownFile-web]
+2019-01-12 23:27:22.0355 Info Configured from an XML element in C:\Users\paraspaul\source\repos\CoreBootstrapper\CoreBootstrapper\bin\Debug\netcoreapp2.0\nlog.config...
+2019-01-12 23:27:22.0597 Info Found 45 configuration items
+2019-01-12 23:32:16.7442 Info Message Template Auto Format enabled
+2019-01-12 23:32:16.7559 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-12 23:32:16.8349 Info Adding target File Target[allfile]
+2019-01-12 23:32:16.8449 Info Adding target File Target[ownFile-web]
+2019-01-12 23:32:16.8449 Info Configured from an XML element in C:\Users\paraspaul\source\repos\CoreBootstrapper\CoreBootstrapper\bin\Debug\netcoreapp2.0\nlog.config...
+2019-01-12 23:32:16.8821 Info Found 45 configuration items
